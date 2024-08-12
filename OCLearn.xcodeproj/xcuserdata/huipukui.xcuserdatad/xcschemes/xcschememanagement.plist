@@ -54,6 +54,16 @@
 			<key>orderHint</key>
 			<integer>21</integer>
 		</dict>
+		<key>动态绑定.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>43</integer>
+		</dict>
+		<key>协议.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>42</integer>
+		</dict>
 		<key>变量.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -74,6 +84,11 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
+		<key>多态.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>38</integer>
+		</dict>
 		<key>多维数组.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -84,6 +99,11 @@
 			<key>orderHint</key>
 			<integer>28</integer>
 		</dict>
+		<key>封装.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>39</integer>
+		</dict>
 		<key>嵌套循环.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -93,6 +113,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>6</integer>
+		</dict>
+		<key>扩展.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>41</integer>
 		</dict>
 		<key>指针.xcscheme_^#shared#^_</key>
 		<dict>
@@ -154,6 +179,16 @@
 			<key>orderHint</key>
 			<integer>3</integer>
 		</dict>
+		<key>类别.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>40</integer>
+		</dict>
+		<key>类和对象.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>36</integer>
+		</dict>
 		<key>类型定义.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -168,6 +203,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>29</integer>
+		</dict>
+		<key>继承.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>37</integer>
 		</dict>
 		<key>运算符.xcscheme_^#shared#^_</key>
 		<dict>
