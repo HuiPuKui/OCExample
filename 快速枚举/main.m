@@ -14,6 +14,20 @@
  }
  */
 
+
+void test() {
+    NSArray *array = [[NSArray alloc] initWithObjects:@"string1", @"string2", @"string3", nil];
+    
+    for (NSString *aString in array) {
+        NSLog(@"Value: %@", aString);
+    }
+    
+    if (array.count > 0) {
+        NSString *firstString = array[0];
+        NSLog(@"First String: %@", firstString);
+    }
+}
+
 int main(int argc, const char * argv[]) {
     
     NSAutoreleasePool *pool = [[NSAutoreleasePool alloc] init];
@@ -32,3 +46,4 @@ int main(int argc, const char * argv[]) {
     
     return 0;
 }
+
